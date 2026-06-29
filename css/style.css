@@ -16,7 +16,7 @@ body{padding-top:70px;}
 .nf-logo{color:var(--nf-accent);}
 
 /* HERO */
-.hero{min-height:90vh;background:url('https://i.pinimg.com/736x/85/2a/ee/852aee0e8b1817a6d25605fa0037e39a.jpg') center/cover no-repeat;position:relative;}
+.hero{min-height:90vh;background:url('https://i.pinimg.com/736x/71/d2/43/71d243244af4b9501e467fbafb043b91.jpg') center/cover no-repeat;position:relative;}
 .hero-overlay{position:absolute;inset:0;background:linear-gradient(120deg,rgba(11,18,32,.95),rgba(11,18,32,.55));}
 .hero-title{line-height:1.05;text-shadow:0 6px 30px rgba(0,0,0,.4);}
 
